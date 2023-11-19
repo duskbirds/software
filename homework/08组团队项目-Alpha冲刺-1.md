@@ -71,7 +71,13 @@ cuda和torch版本不适合。
 - 有哪些收获和疑问：初步了解了web后端如何搭建。
 
 # 三、冲刺成果展示
-
+- 组内最新成果
 ![前端2](https://github.com/duskbirds/software/assets/145568790/88ce116f-c9c3-4846-94d2-2f33e84b82ba)
+- 站立会议合照
+  ![68bbb844cd7174160c4d004ca8abc29](https://github.com/duskbirds/software/assets/128390031/02663edf-42b5-414d-a83f-1d89e03847f3)
+- 会议时间:2023年11月19日下午四点
+  地点：图书馆研讨间
+  内容记录：汇报每位成员的进度，并对存在的问题进行了讨论。
+
 
 
