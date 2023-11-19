@@ -68,8 +68,6 @@ cuda和torch版本不适合。
 
 # 三、冲刺成果展示
 
+![前端2](https://github.com/duskbirds/software/assets/145568790/88ce116f-c9c3-4846-94d2-2f33e84b82ba)
 
 
-![](E:\作业\23\软件工程\screenshot\前端1.png)
-
-![](E:\作业\23\软件工程\screenshot\前端2.jpg)
