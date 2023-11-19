@@ -1,0 +1,34 @@
+#background-image {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        object-fit: cover; /* 保持图像比例并填充整个容器 */
+        z-index: -1; /* 将图像放到页面底层 */
+    }
+#content {
+        position: absolute;
+        margin-left: 20%;
+        margin-right: 20%;
+        margin-top: 10%;
+        /* transform: translate(-50%, -50%); */
+        text-align: center;
+        color: #fff;
+    }  
+    #customBox {
+        display: none;
+        width: 800px;
+        height: 500px;
+        background-color: rgb(255,255,255);
+        position: fixed;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+    }
+    #button {
+        text-align: right;
+        margin-left: 50px;
+    }

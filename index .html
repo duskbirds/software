@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="usual.css">
+    <title>画意纯净</title>
+    <style>
+        body {
+            margin: 0; /* 重置默认的页面边距 */
+            overflow: hidden; /* 防止页面滚动 */
+        }
+    </style>
+    <link href="./LXXUploadNeeded/LXXUploadPic.css" rel="stylesheet" type="text/css"> 
+    <script src="./LXXUploadNeeded/jquery-2.2.1.js"></script>
+    <script src="./LXXUploadNeeded/LXXUploadPic.js"></script>
+</head>
+<body>
+    <img id="background-image" src="./image/bg2.gif" alt="全屏背景图片">
+    
+    <div id="content">
+        <h1>欢迎使用我们的图片降噪工具！只需上传您的照片，我们将为您自动处理，
+            让您的图片更加清晰、更具细节。立即体验，让您的照片焕发全新光彩！</h1>
+            <button onclick="showCustomBox()">点击开始使用</button>
+            <div id="customBox">
+                <button onclick="hideCustomBox()" id="button1">关闭</button>
+                <div id="LXXUploadPic" LXXCol="2" LXXRow="1" LXXWidth="300" LXXHeight="300"></div>
+                
+            </div>
+    </div>
+    <script>
+        function showCustomBox() {
+            document.getElementById('customBox').style.display = 'block';
+        }
+    
+        function hideCustomBox() {
+            document.getElementById('customBox').style.display = 'none';
+        }
+    </script>
+</body>
+</html>
