@@ -11,7 +11,11 @@
 1.刘嘉洋
 - 过去两天完成了那些任务
   - 文字描述
+神经网络环境配置，学习神经网络结构和大佬案例，训练模型。
   - 展示GIthub当日代码/文档嵌入记录：
+![image](https://github.com/duskbirds/software/assets/92347173/b53429fa-7f7b-4043-be1c-8f7b0f6a67db)
+![image](https://github.com/duskbirds/software/assets/92347173/c4495dd9-c747-4b2e-a516-47bcdd46423f)
+
 - 接下来的计划
 - 还剩下哪些任务
 - 遇到了哪些困难
