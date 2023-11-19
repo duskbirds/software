@@ -63,7 +63,7 @@ cuda和torch版本不适合。
 - 过去两天完成了那些任务
   - 文字描述：寻找和学习了web后端的相关知识，搭建了相关环境，代码方面实现了一些对图片数据库的创建和访问。
   - 展示GIthub当日代码/文档嵌入记录：
-    ![e29c3759ed96c20f09843bb61f44702](https://raw.githubusercontent.com/ChenJayP/myPicGo/img/img/e29c3759ed96c20f09843bb61f44702.png)
+![e29c3759ed96c20f09843bb61f44702](https://raw.githubusercontent.com/ChenJayP/myPicGo/img/img/e29c3759ed96c20f09843bb61f44702.png)
 - 接下来的计划：完善代码，特别是完善数据库的建立，再与前端函数传递的参数对接。
 - 还剩下哪些任务：1.数据库的完善2.后端接口设计3.接口的实现
 - 遇到了哪些困难：后端接口还不知道怎么弄，环境问题很多。
