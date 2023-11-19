@@ -1,4 +1,4 @@
-# <center>08组团队项目-Alpha冲刺-1/3</center>
+<img width="1244" alt="ad58afcc2e5c40f7ffc0958ebda1933" src="https://github.com/duskbirds/software/assets/104209974/82ee3ad6-620a-44e8-89ea-4ed10cf776df"># <center>08组团队项目-Alpha冲刺-1/3</center>
 
 # 一、基本情况
 
@@ -53,6 +53,7 @@ cuda和torch版本不适合。
 - 过去两天完成了那些任务
   - 文字描述：寻找和学习适合图像去噪的神经网络，在vs上配置神经网络运行环境，初步试验训练模型
   - 展示GIthub当日代码/文档嵌入记录：
+  - <img width="1244" alt="ad58afcc2e5c40f7ffc0958ebda1933" src="https://github.com/duskbirds/software/assets/104209974/e4406f64-3d5f-4af1-ac1a-d8bf7730ff11">
 - 接下来的计划：训练模型，测试数据集
 - 还剩下哪些任务：后端搭建，提供给前端接口
 - 遇到了哪些困难：cuda和pytorch的版本不兼容，虚拟内存没设置好导致运行失败
