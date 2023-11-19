@@ -28,6 +28,7 @@ cuda和torch版本不适合。
 - 过去两天完成了那些任务
   - 文字描述：过去两天学习了峰值信噪比，噪声方差等相关内容，并尝试提升PSNR。
   - 展示GIthub当日代码/文档嵌入记录：
+<img width="893" alt="image" src="https://github.com/duskbirds/software/assets/145568790/39519778-775b-4b40-8e83-c9a2f50b0d92">
 
 - 接下来的计划:
   完善增噪降噪代码，尝试训练降噪模型并比较不同的算法
