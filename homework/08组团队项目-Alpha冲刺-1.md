@@ -1,4 +1,4 @@
-<img width="1244" alt="ad58afcc2e5c40f7ffc0958ebda1933" src="https://github.com/duskbirds/software/assets/104209974/82ee3ad6-620a-44e8-89ea-4ed10cf776df"># <center>08组团队项目-Alpha冲刺-1/3</center>
+# <center>08组团队项目-Alpha冲刺-1/3</center>
 
 # 一、基本情况
 
