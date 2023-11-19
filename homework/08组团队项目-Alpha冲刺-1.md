@@ -17,8 +17,11 @@
 ![image](https://github.com/duskbirds/software/assets/92347173/c4495dd9-c747-4b2e-a516-47bcdd46423f)
 
 - 接下来的计划
+继续训练模型准备测试
 - 还剩下哪些任务
+前后端链接，模型训练测试。
 - 遇到了哪些困难
+cuda和torch版本不适合。
 - 有哪些收获和疑问
   
 2.刘咨汛
