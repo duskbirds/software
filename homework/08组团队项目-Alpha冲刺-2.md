@@ -81,7 +81,12 @@
 
 # 三、冲刺成果展示
 - 组内最新成果
-![前端2](https://github.com/duskbirds/software/assets/145568790/88ce116f-c9c3-4846-94d2-2f33e84b82ba)
+  主页面
+![image](https://github.com/duskbirds/software/assets/128390031/eb127468-cc2a-459b-8dc5-bd9126f96aa0)
+  上传图片
+  <img width="691" alt="f100a500395f4745d0603f329ac0490" src="https://github.com/duskbirds/software/assets/128390031/630b110e-ff96-432a-9412-f7b8f09d558a">
+  下载图片
+<img width="237" alt="fefcfabae678e43e879c13fc0643ebe" src="https://github.com/duskbirds/software/assets/128390031/08bad408-2542-4d67-8139-f09d470a6920">
 
 - 站立会议合照
   ![68bbb844cd7174160c4d004ca8abc29](https://github.com/duskbirds/software/assets/128390031/02663edf-42b5-414d-a83f-1d89e03847f3)
