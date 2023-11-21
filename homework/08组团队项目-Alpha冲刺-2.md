@@ -84,8 +84,11 @@
   主页面
 ![image](https://github.com/duskbirds/software/assets/128390031/eb127468-cc2a-459b-8dc5-bd9126f96aa0)
   上传图片
+  
   <img width="691" alt="f100a500395f4745d0603f329ac0490" src="https://github.com/duskbirds/software/assets/128390031/630b110e-ff96-432a-9412-f7b8f09d558a">
+  
   下载图片
+  
 <img width="237" alt="fefcfabae678e43e879c13fc0643ebe" src="https://github.com/duskbirds/software/assets/128390031/08bad408-2542-4d67-8139-f09d470a6920">
 
 - 站立会议合照
