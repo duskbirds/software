@@ -62,7 +62,7 @@
 - 过去两天完成了那些任务
   - 文字描述：学习经典去噪卷积神经网络dncnn，并且进行了模型的训练和测试，目前只实现了灰度图的训练和测试
   - 展示GIthub当日代码/文档嵌入记录：
-   <img width="1244" alt="ad58afcc2e5c40f7ffc0958ebda1933" src="https://github.com/duskbirds/software/assets/104209974/e4406f64-3d5f-4af1-ac1a-d8bf7730ff11">
+   <img width="1037" alt="34a55b89f2c9a0b386c18e343529fe4" src="https://github.com/duskbirds/software/assets/104209974/3ac5527b-f286-4cac-af18-445222591771">
 - 接下来的计划：因为python学的比较浅，dncnn中对数据的预处理，模型的训练和测试，其中的一些参数，类型转换不理解，当下把channel从1改到3，会出现一些类型不匹配的问题，下一步就是修改代码，实现channel=3时模型的训练和测试
 - 还剩下哪些任务：channel=3时模型的训练和测试，调参，使效果达到最佳
 - 遇到了哪些困难：代码逻辑理解起来比较困难，有比较多的没见过的库函数，修改channel的时候会出现报错
@@ -90,6 +90,9 @@
   下载图片
   
 <img width="237" alt="fefcfabae678e43e879c13fc0643ebe" src="https://github.com/duskbirds/software/assets/128390031/08bad408-2542-4d67-8139-f09d470a6920">
+
+  灰度图像测试
+  <img width="1238" alt="55ad3cc51886a3d98ba517fe1010bce" src="https://github.com/duskbirds/software/assets/104209974/b1f65dae-60bf-464a-a219-e6a4109625b3">
 
 - 站立会议合照
   ![68bbb844cd7174160c4d004ca8abc29](https://github.com/duskbirds/software/assets/128390031/02663edf-42b5-414d-a83f-1d89e03847f3)
