@@ -89,9 +89,9 @@
   
   下载图片
   
-<img width="237" alt="fefcfabae678e43e879c13fc0643ebe" src="https://github.com/duskbirds/software/assets/128390031/08bad408-2542-4d67-8139-f09d470a6920">
+  <img width="237" alt="fefcfabae678e43e879c13fc0643ebe" src="https://github.com/duskbirds/software/assets/128390031/08bad408-2542-4d67-8139-f09d470a6920">
 
-  灰度图像测试
+   灰度图像测试
   <img width="1238" alt="55ad3cc51886a3d98ba517fe1010bce" src="https://github.com/duskbirds/software/assets/104209974/b1f65dae-60bf-464a-a219-e6a4109625b3">
 
 - 站立会议合照
