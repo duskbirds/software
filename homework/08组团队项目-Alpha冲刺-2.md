@@ -35,7 +35,8 @@
 - 过去两天完成了那些任务
   - 文字描述：对比算法和训练模型，确定用于去噪的模型DnCNN并学习相关内容
   - 展示GIthub当日代码/文档嵌入记录：
-  
+  <img width="868" alt="image" src="https://github.com/duskbirds/software/assets/145568790/2e580349-ffde-4c6d-8077-93bc2a4c08c8">
+
 
 - 接下来的计划:
   修改代码，完善模型的训练和测试，争取进一步提高该模型的PSNR
