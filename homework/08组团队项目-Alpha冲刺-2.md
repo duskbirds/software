@@ -76,8 +76,7 @@
 - 过去两天完成了那些任务
   - 文字描述：完成了后端数据库的搭建，完成了tomcat的部署。
   - 展示GIthub当日代码/文档嵌入记录:
-
-![e29c3759ed96c20f09843bb61f44702](https://raw.githubusercontent.com/ChenJayP/myPicGo/img/img/e29c3759ed96c20f09843bb61f44702.png)
+![image](https://github.com/duskbirds/software/assets/100574014/14065d0d-acb2-4e2a-89cc-dda6ac2b445c)
 - 接下来的计划：完善代码，特别是完善与前端函数传递的参数对接。
 - 还剩下哪些任务：1.后端接口设计2.接口的实现。
 - 遇到了哪些困难：部署的时候bug特别的，http的请求总是失败，jdk的安装也出现版本问题。
