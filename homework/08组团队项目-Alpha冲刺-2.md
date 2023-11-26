@@ -13,6 +13,7 @@
   - 文字描述
 测试dncnn神经网络降噪模型，并且还尝试了drunet模型，突破是，这次是用的有颜色的图片，效果不错。
   - 展示GIthub当日代码/文档嵌入记录：
+![image](https://github.com/duskbirds/software/assets/92347173/ff767cbd-7a78-4d02-8906-94d289f8728e)
 
 - 接下来的计划
   进行前后端的链接以及代码的优化，继续训练。
@@ -95,13 +96,18 @@
 
    灰度图像测试
   <img width="1238" alt="55ad3cc51886a3d98ba517fe1010bce" src="https://github.com/duskbirds/software/assets/104209974/b1f65dae-60bf-464a-a219-e6a4109625b3">
+  drunet神经网络降噪模型训练和测试结果
+下图为加噪
+![屏幕截图 2023-11-26 110241](https://github.com/duskbirds/software/assets/92347173/1c145850-f41a-4229-ae7c-b60b7783fb9f)
+下图为去噪
+![屏幕截图 2023-11-26 110252](https://github.com/duskbirds/software/assets/92347173/155c948e-bd31-4a4b-b5ec-cc27e2b42a3d)
 
 - 站立会议合照
-  ![68bbb844cd7174160c4d004ca8abc29](https://github.com/duskbirds/software/assets/128390031/02663edf-42b5-414d-a83f-1d89e03847f3)
-  陈嘉鹏摄
+![IMG_20231126_110033](https://github.com/duskbirds/software/assets/92347173/5a1cd3ba-446e-4cf5-bf4e-39b3856ab0b3)
+
   
-- 会议时间:2023年11月19日下午四点
-  地点：图书馆研讨间
+- 会议时间:2023年11月26日
+  地点：宿舍走廊
   内容记录：汇报每位成员的进度，并对存在的问题进行了讨论。
 
 
