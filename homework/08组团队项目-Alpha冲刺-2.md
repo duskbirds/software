@@ -3,7 +3,7 @@
 # 一、基本情况
 
 - 团队ID：07
-- 组长博客：
+- 组长博客：[CSDN](https://blog.csdn.net/duskbirds?type=blog)
 - 小组成员：刘嘉洋、刘咨汛、陈家奇、廖伟鹏、陈嘉鹏
 
 # 二、冲刺概况汇报
