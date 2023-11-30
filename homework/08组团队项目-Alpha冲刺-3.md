@@ -86,17 +86,25 @@
 
 # 三、冲刺成果展示
 - 组内最新成果
-  主页面
-![image](https://github.com/duskbirds/software/assets/128390031/eb127468-cc2a-459b-8dc5-bd9126f96aa0)
+  页面
+![image](https://github.com/duskbirds/software/assets/128390031/0c2f6306-c7c6-438c-a047-3177639c1edd)
+
   上传图片
   
-  <img width="691" alt="f100a500395f4745d0603f329ac0490" src="https://github.com/duskbirds/software/assets/128390031/630b110e-ff96-432a-9412-f7b8f09d558a">
-  
-![image](https://github.com/duskbirds/software/assets/100574014/13722ceb-3a02-4551-89ac-998719635fea)
+![image](https://github.com/duskbirds/software/assets/128390031/2d79e134-861b-4b86-88c5-bddd5893cdf6)
 
-  下载图片
+  黑白处理
   
-  <img width="237" alt="fefcfabae678e43e879c13fc0643ebe" src="https://github.com/duskbirds/software/assets/128390031/08bad408-2542-4d67-8139-f09d470a6920">
+ ![image](https://github.com/duskbirds/software/assets/128390031/d0e1d6e5-e27d-4855-b626-dbbfb186d016)
+
+  再次点击上传图片会提示
+
+![image](https://github.com/duskbirds/software/assets/128390031/44922577-98cf-423c-bbe5-e6d083b6f1fe)
+
+  刷新
+
+![image](https://github.com/duskbirds/software/assets/128390031/e8246263-400a-4154-8d51-9115d852242d)
+
 
    灰度图像测试
   <img width="1238" alt="55ad3cc51886a3d98ba517fe1010bce" src="https://github.com/duskbirds/software/assets/104209974/b1f65dae-60bf-464a-a219-e6a4109625b3">
