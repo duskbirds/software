@@ -1,4 +1,4 @@
-# <center>07组团队项目-Alpha冲刺-2/3</center>
+# <center>07组团队项目-Alpha冲刺-3/3</center>
 
 # 一、基本情况
 
@@ -108,7 +108,8 @@
 
    CBDnet图像去噪
 <img width="1222" alt="8fd371e79c4d8c79ffa6f8730b8007e" src="https://github.com/duskbirds/software/assets/104209974/359dd05e-f912-42c3-8053-b1316c234440">
-<img width="1222" alt="8fd371e79c4d8c79ffa6f8730b8007e" src="https://github.com/duskbirds/software/assets/104209974/59067cb8-24fb-4e1e-b2d6-ccd0ce79b24f">
+<img width="1229" alt="45585cb0a93eb55b31873f52563f1ab" src="https://github.com/duskbirds/software/assets/104209974/f565ef6f-4a05-419b-9be7-05452340a618">
+
 
   drunet神经网络降噪模型训练和测试结果
 下图为加噪
