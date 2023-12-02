@@ -65,13 +65,13 @@
 
 4.廖伟鹏
 - 过去两天完成了那些任务
-  - 文字描述：学习经典去噪卷积神经网络dncnn，并且进行了模型的训练和测试，目前只实现了灰度图的训练和测试
+  - 文字描述：原本是想使用dncnn来完成图像去噪，但是因为只能实现单通道即灰度图的去噪，如若改成三通道，又需要对训练的参数以及张量的类型做调整，有点不太会，于是决定使用CBDnet，并且进行了模型的训练和测试。
   - 展示GIthub当日代码/文档嵌入记录：
    <img width="1037" alt="34a55b89f2c9a0b386c18e343529fe4" src="https://github.com/duskbirds/software/assets/104209974/3ac5527b-f286-4cac-af18-445222591771">
-- 接下来的计划：因为python学的比较浅，dncnn中对数据的预处理，模型的训练和测试，其中的一些参数，类型转换不理解，当下把channel从1改到3，会出现一些类型不匹配的问题，下一步就是修改代码，实现channel=3时模型的训练和测试
-- 还剩下哪些任务：channel=3时模型的训练和测试，调参，使效果达到最佳
-- 遇到了哪些困难：代码逻辑理解起来比较困难，有比较多的没见过的库函数，修改channel的时候会出现报错
-- 有哪些收获和疑问：初步了解dncnn神经网络，学习了一些在深度学习中常用的库函数
+- 接下来的计划：因为python学的比较浅，CBDnet中对数据的预处理，模型的训练和测试，其中的一些参数，类型转换不理解，对有些噪声处理的效果不是很好。
+- 还剩下哪些任务：在原有基础上调参，使效果达到最佳。
+- 遇到了哪些困难：代码逻辑理解起来比较困难，有比较多的没见过的库函数，训练到一定次数后，再进行训练，效果会变的很差。
+- 有哪些收获和疑问：初步了解CBDnet神经网络，学习了一些在深度学习中常用的库函数。
 
 5.陈嘉鹏
 - 过去两天完成了那些任务
@@ -106,8 +106,10 @@
 ![image](https://github.com/duskbirds/software/assets/128390031/e8246263-400a-4154-8d51-9115d852242d)
 
 
-   灰度图像测试
-  <img width="1238" alt="55ad3cc51886a3d98ba517fe1010bce" src="https://github.com/duskbirds/software/assets/104209974/b1f65dae-60bf-464a-a219-e6a4109625b3">
+   CBDnet图像去噪
+<img width="1222" alt="8fd371e79c4d8c79ffa6f8730b8007e" src="https://github.com/duskbirds/software/assets/104209974/359dd05e-f912-42c3-8053-b1316c234440">
+<img width="1222" alt="8fd371e79c4d8c79ffa6f8730b8007e" src="https://github.com/duskbirds/software/assets/104209974/59067cb8-24fb-4e1e-b2d6-ccd0ce79b24f">
+
   drunet神经网络降噪模型训练和测试结果
 下图为加噪
 ![屏幕截图 2023-11-26 110241](https://github.com/duskbirds/software/assets/92347173/1c145850-f41a-4229-ae7c-b60b7783fb9f)
