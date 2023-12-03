@@ -35,7 +35,7 @@
 - 过去两天完成了那些任务
   - 文字描述：对比学习Adam和SDG算法，确定Adam算法明显优于SDG算法，测试训练轮次和训练效果并统计图像损失率和峰值信噪比的提升，确定了训练模型和代码
   - 展示GIthub当日代码/文档嵌入记录：
-  <img width="868" alt="image" src="https://github.com/duskbirds/software/assets/145568790/2e580349-ffde-4c6d-8077-93bc2a4c08c8">
+ <img width="847" alt="image" src="https://github.com/duskbirds/software/assets/145568790/fd2ce9d9-68c4-4963-a8d3-3a3efc20684c">
 
 
 - 接下来的计划:
