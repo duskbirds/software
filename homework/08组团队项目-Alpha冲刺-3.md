@@ -79,7 +79,7 @@
   - 文字描述：完成了后端数据库的搭建，完成了tomcat的部署，完成了大部分后端接口。
   - 展示GIthub当日代码/文档嵌入记录:
 
-![image](https://github.com/duskbirds/software/assets/100574014/14065d0d-acb2-4e2a-89cc-dda6ac2b445c)
+![1701602436618](https://github.com/duskbirds/software/assets/100574014/bcbe3b23-f160-4190-89c9-4cba6ca956dd)
 - 接下来的计划：完善代码，解决重复图片的问题-计划引入uuid号来避免重复
 - 还剩下哪些任务：1.接口的优化 2.解决一些bug 3.部署到云服务器。
 - 遇到了哪些困难：servlet库在2023idea上出现bug。
