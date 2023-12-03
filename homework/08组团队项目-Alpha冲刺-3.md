@@ -13,7 +13,8 @@
   - 文字描述
 测试dncnn神经网络降噪模型，效果最终趋于31db。
   - 展示GIthub当日代码/文档嵌入记录：
-![image](https://github.com/duskbirds/software/assets/92347173/ff767cbd-7a78-4d02-8906-94d289f8728e)
+![image](https://github.com/duskbirds/software/assets/92347173/c7bfce30-2404-4acc-a7c4-198a5025aa59)
+
 
 - 接下来的计划
   进行前后端的链接以及代码的优化。
