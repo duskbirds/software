@@ -135,9 +135,60 @@ function convertToBlackAndWhite() {
         img.src = canvas.toDataURL();
     }
 }
-// 初始化处理
 function beginning() {
     document.getElementById('uploaded-image1').src = './image/加.png';
     document.getElementById('uploaded-image2').src = './image/加.png';
-    let image1Uploaded = false;
+    image1Uploaded = false;
 }
+
+// 在 soft.js 中添加
+function sharpenImage() {
+    const canvas = document.createElement('canvas');
+    const ctx = canvas.getContext('2d');
+    const img = document.getElementById('uploaded-image2');
+
+    canvas.width = img.width;
+    canvas.height = img.height;
+
+    ctx.drawImage(img, 0, 0, img.width, img.height);
+    
+    const imageData = ctx.getImageData(0, 0, canvas.width, canvas.height);
+    const data = imageData.data;
+
+    const weights = [0, -1, 0, -1, 5, -1, 0, -1, 0];  // 拉普拉斯算子
+    const side = Math.round(Math.sqrt(weights.length));
+    const halfSide = Math.floor(side / 2);
+
+    const src = data.slice();
+
+    for (let y = 0; y < canvas.height; y++) {
+        for (let x = 0; x < canvas.width; x++) {
+            const dstOff = (y * canvas.width + x) * 4;
+            let r = 0, g = 0, b = 0;
+
+            for (let cy = 0; cy < side; cy++) {
+                for (let cx = 0; cx < side; cx++) {
+                    const scy = y + cy - halfSide;
+                    const scx = x + cx - halfSide;
+
+                    if (scy >= 0 && scy < canvas.height && scx >= 0 && scx < canvas.width) {
+                        const srcOff = (scy * canvas.width + scx) * 4;
+                        const wt = weights[cy * side + cx];
+                        r += src[srcOff] * wt;
+                        g += src[srcOff + 1] * wt;
+                        b += src[srcOff + 2] * wt;
+                    }
+                }
+            }
+
+            data[dstOff] = Math.min(255, Math.max(0, r));
+            data[dstOff + 1] = Math.min(255, Math.max(0, g));
+            data[dstOff + 2] = Math.min(255, Math.max(0, b));
+        }
+    }
+
+    ctx.putImageData(imageData, 0, 0);
+
+    img.src = canvas.toDataURL('image/png');
+}
+
