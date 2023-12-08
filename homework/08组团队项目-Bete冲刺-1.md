@@ -72,8 +72,12 @@ cuda和torch版本不适合。
 - 有哪些收获和疑问：初步了解了web后端如何搭建。
 
 # 三、冲刺成果展示
-- 组内最新成果
-![前端2](https://github.com/duskbirds/software/assets/145568790/88ce116f-c9c3-4846-94d2-2f33e84b82ba)
+- 上传图片
+![image](https://github.com/duskbirds/software/assets/128390031/54842fd4-8d4e-4afc-b996-3f89fbc5b779)
+
+- 锐化效果
+![image](https://github.com/duskbirds/software/assets/128390031/c9d7a5a6-2fab-48ea-b218-05cd29f7c2fb)
+
 
 - 站立会议合照
   ![68bbb844cd7174160c4d004ca8abc29](https://github.com/duskbirds/software/assets/128390031/02663edf-42b5-414d-a83f-1d89e03847f3)
