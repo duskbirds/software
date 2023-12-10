@@ -70,7 +70,7 @@
 - 接下来的计划：完善代码，特别是数据库的管理。
 - 还剩下哪些任务：1.数据库的管理 2.为前端提供更丰富的接口。
 - 遇到了哪些困难：数据库的操作经常未响应，tomcat部署不稳定。
-- 有哪些收获和疑问：目标了接口应该怎么实现。
+- 有哪些收获和疑问：明白了接口应该怎么实现。
 
 # 三、冲刺成果展示
 - 上传图片
@@ -80,6 +80,7 @@
 ![image](https://github.com/duskbirds/software/assets/128390031/c9d7a5a6-2fab-48ea-b218-05cd29f7c2fb)
 
 -图片保存至本地并成功传回
+
 ![ecff8e6848f4a827d406c95298bb6bb](https://github.com/duskbirds/software/assets/100574014/151f718a-99c6-4fc2-be3b-5c92aa61bc73)
 ![image](https://github.com/duskbirds/software/assets/100574014/ee104739-1211-4157-ac8d-aba4bcabdb4f)
 
