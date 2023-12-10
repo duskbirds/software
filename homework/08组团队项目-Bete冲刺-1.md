@@ -28,7 +28,7 @@ cuda和torch版本不适合。
 - 过去两天完成了那些任务
   - 文字描述：学习超分辨率的神经网络模型，尝试加入超分功能。
   - 展示GIthub当日代码/文档嵌入记录：
-<img width="893" alt="image" src="https://github.com/duskbirds/software/assets/145568790/39519778-775b-4b40-8e83-c9a2f50b0d92">
+<img width="956" alt="image" src="https://github.com/duskbirds/software/assets/145568790/0f7f6627-433c-4a50-beaa-1624af1eb50a">
 
 - 接下来的计划:
   完善前后端代码，尝试降噪之外新的功能模型，比如超分辨率等等
