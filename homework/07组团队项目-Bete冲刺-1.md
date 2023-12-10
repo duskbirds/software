@@ -65,7 +65,8 @@
   - 文字描述：完成了接口的对接。
   - 展示GIthub当日代码/文档嵌入记录:
 
-![e29c3759ed96c20f09843bb61f44702](https://raw.githubusercontent.com/ChenJayP/myPicGo/img/img/e29c3759ed96c20f09843bb61f44702.png)
+![image](https://github.com/duskbirds/software/assets/100574014/2f848cad-9915-4c0d-8648-4e5814910bb9)
+
 - 接下来的计划：完善代码，特别是数据库的管理。
 - 还剩下哪些任务：1.数据库的管理 2.为前端提供更丰富的接口。
 - 遇到了哪些困难：数据库的操作经常未响应，tomcat部署不稳定。
@@ -78,6 +79,9 @@
 - 锐化效果
 ![image](https://github.com/duskbirds/software/assets/128390031/c9d7a5a6-2fab-48ea-b218-05cd29f7c2fb)
 
+-图片保存至本地并成功传回
+![ecff8e6848f4a827d406c95298bb6bb](https://github.com/duskbirds/software/assets/100574014/151f718a-99c6-4fc2-be3b-5c92aa61bc73)
+![image](https://github.com/duskbirds/software/assets/100574014/ee104739-1211-4157-ac8d-aba4bcabdb4f)
 
 - 站立会议合照
   ![68bbb844cd7174160c4d004ca8abc29](https://github.com/duskbirds/software/assets/128390031/02663edf-42b5-414d-a83f-1d89e03847f3)
