@@ -1,6 +1,10 @@
 model_zoo
 
+download RetinaFace-R50 models:
+https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/RetinaFace-R50.pth
 
+download GPEN-BFR-512 models:
+https://public-vigen-video.oss-cn-shanghai.aliyuncs.com/robin/models/GPEN-BFR-512.pth
 
 download all the models:
 ```
