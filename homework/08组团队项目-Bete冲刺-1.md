@@ -11,17 +11,17 @@
 1.刘嘉洋
 - 过去两天完成了那些任务
   - 文字描述
-神经网络环境配置，学习神经网络结构和大佬案例，训练模型。
+ 完成了CBDnet的降噪模型训练，并且完成了测试。除此之外，因为降噪之后图片不是很高清，于是尝试face_enhancement的模型训练。
   - 展示GIthub当日代码/文档嵌入记录：
-![image](https://github.com/duskbirds/software/assets/92347173/b53429fa-7f7b-4043-be1c-8f7b0f6a67db)
-![image](https://github.com/duskbirds/software/assets/92347173/c4495dd9-c747-4b2e-a516-47bcdd46423f)
+![1](https://github.com/duskbirds/software/assets/92347173/3fc0db65-8c21-41e7-a69e-f8ab0b3ff1da)
+
 
 - 接下来的计划
-继续训练模型准备测试
+继续face_enhancement的训练模型准备测试
 - 还剩下哪些任务
-前后端链接，模型训练测试。
+算法和程序的优化，以及faceenhancement的训练测试。
 - 遇到了哪些困难
-cuda和torch版本不适合。
+在进行训练faceenhancement模型的时候出现各种环境配置问题。
 - 有哪些收获和疑问
   学习了很多关于神经网络的知识，同时也对图像修复产生了浓厚的兴趣。
 2.刘咨汛
