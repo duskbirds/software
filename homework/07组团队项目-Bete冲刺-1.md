@@ -83,6 +83,8 @@
 
 ![ecff8e6848f4a827d406c95298bb6bb](https://github.com/duskbirds/software/assets/100574014/151f718a-99c6-4fc2-be3b-5c92aa61bc73)
 ![image](https://github.com/duskbirds/software/assets/100574014/ee104739-1211-4157-ac8d-aba4bcabdb4f)
+![image](https://github.com/duskbirds/software/assets/100574014/ae2d691c-ade1-4f19-b459-7db0466b5893)
+
 
 - 站立会议合照
   ![68bbb844cd7174160c4d004ca8abc29](https://github.com/duskbirds/software/assets/128390031/02663edf-42b5-414d-a83f-1d89e03847f3)
