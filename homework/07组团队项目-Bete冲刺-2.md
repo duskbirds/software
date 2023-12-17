@@ -1,4 +1,4 @@
-# <center>07组团队项目-Bete冲刺-2/3</center>
+![image](https://github.com/duskbirds/software/assets/104209974/9d1269f2-a760-49a7-b9f0-4f06ba6a02b7)# <center>07组团队项目-Bete冲刺-2/3</center>
 
 # 一、基本情况
 
@@ -52,7 +52,7 @@ face_enhancement的前端链接。
 - 过去两天完成了那些任务
   - 文字描述：对超分辨率实现的探索，但是有很多报错，一个接着一个，目前尚未完全解决，对已经实现的图像去噪功能打包成exe文件，但是打包完之后，运行失败，换一种打包方式，在最后一步会卡住
   - 展示GIthub当日代码/文档嵌入记录：
-   <img width="1244" alt="ad58afcc2e5c40f7ffc0958ebda1933" src="https://github.com/duskbirds/software/assets/104209974/e4406f64-3d5f-4af1-ac1a-d8bf7730ff11">
+  <img width="1244" alt="e403a9411c901125d0142a3d56754ec" src="https://github.com/duskbirds/software/assets/104209974/6128d805-3f72-4123-8d79-757ed22c7c49">
 - 接下来的计划：将图像去噪功能打包成exe文件，与写后端的同学进一步交流
 - 还剩下哪些任务：对于一些细节的处理
 - 遇到了哪些困难：c++和python嵌套使用会报错，运行时会出现编码问题，cuda版本问题（不同的模型会有不同的版本）
