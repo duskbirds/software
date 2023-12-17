@@ -1,4 +1,4 @@
-![image](https://github.com/duskbirds/software/assets/104209974/9d1269f2-a760-49a7-b9f0-4f06ba6a02b7)# <center>07组团队项目-Bete冲刺-2/3</center>
+
 
 # 一、基本情况
 
@@ -83,6 +83,6 @@ face_enhancement的前端链接。
 
   刘嘉洋摄
   
-- 会议时间:2023年12月9日下午四点
+- 会议时间:2023年12月17日下午四点
   地点：图书馆研讨间
   内容记录：汇报每位成员的进度，并对存在的问题进行了讨论。
