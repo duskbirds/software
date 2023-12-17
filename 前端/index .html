@@ -28,7 +28,7 @@
             <div class="card1" onclick="triggerUpload()">
                 <img id="uploaded-image1" src="./image/加.png" alt="图片">
                 <input type="file" id="card1" onchange="handleFileSelect(event)">
-            </div>
+            </div>  
             <div class="card2" onclick="triggerUpload1()">
                 <img id="uploaded-image2" src="./image/加.png" alt="图片">
                 <input type="file" id="card2" onchange="handleFileSelect1(event)" >
@@ -36,15 +36,39 @@
             <button class="my-button">降噪处理</button>
             <button class="my-button download" onclick="downloadImage()">保存图片</button>
             <div id="button-container">
-               <div class="side-button" onclick="convertToBlackAndWhite()" >黑白</div>
+                <div class="side-button" onclick="convertToBlackAndWhite()" >黑白</div>
                 <div class="side-button" onclick="sharpenImage()" >锐化</div>
                 <div class="side-button" onclick="beginning()">刷新</div>
+                <!-- <div class="side-button" onclick="handleButtonClick(3)">按钮3</div> -->
             </div> 
             </div>  
              
         </div>  
         </div>
-        
+        <!-- <body>
+            <img id="background-image" src="./image/bg4.gif" alt="全屏背景图片">
+            
+            <div id="content" class="page">
+                <h1>欢迎使用我们的图片降噪工具！只需上传您的照片，我们将为您自动处理，
+                    让您的图片更加清晰、更具细节。立即体验，让您的照片焕发全新光彩！</h1>
+                <button onclick="showCustomBox()" class="button0">点击开始使用</button>
+                <div id="customBox">
+                    <button onclick="hideCustomBox()" class="button1">关闭</button>
+                    <div class="action">
+                        <input type="file" id="card1">
+                        <input type="file" id="card2">
+                    </div>
+                    <div class="card1">
+                        <img src="./image/加.png" alt="图片">
+                    </div>
+                    <div class="card2">
+                        <img src="./image/加.png" alt="图片">
+                    </div>
+                    <button class="my-button">上传图片</button>
+                    <button class="my-button download">保存图片</button>   
+                </div>
+            </div>    
+        </body>       -->
 
 </body>
 </html>
