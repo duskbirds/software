@@ -11,15 +11,13 @@
 1.刘嘉洋
 - 过去两天完成了那些任务
   - 文字描述
- 完成了CBDnet的降噪模型训练，并且完成了测试。除此之外，因为降噪之后图片不是很高清，于是尝试face_enhancement的模型训练。
+ 在自己的电脑上重现Bringing-Old-Photos-Back-to-Life项目，完成了这个超分模型训练和测试。
   - 展示GIthub当日代码/文档嵌入记录：
-![1](https://github.com/duskbirds/software/assets/92347173/3fc0db65-8c21-41e7-a69e-f8ab0b3ff1da)
-
-
+![image](https://github.com/duskbirds/software/assets/92347173/6d06f846-28de-4367-8363-eba890e82448)
 - 接下来的计划
-继续face_enhancement的训练模型准备测试
+打算尝试用 Pyinstaller 模块将 Python 程序打包成 exe 文件，将face_enhancement打包成exe文件，方便前端链接。
 - 还剩下哪些任务
-算法和程序的优化，以及faceenhancement的训练测试。
+face_enhancement的前端链接。
 - 遇到了哪些困难
 在进行训练faceenhancement模型的时候出现各种环境配置问题。
 - 有哪些收获和疑问
@@ -73,22 +71,14 @@
 - 有哪些收获和疑问：明白了接口应该怎么实现。
 
 # 三、冲刺成果展示
-- 上传图片
-![image](https://github.com/duskbirds/software/assets/128390031/54842fd4-8d4e-4afc-b996-3f89fbc5b779)
-
-- 锐化效果
-![image](https://github.com/duskbirds/software/assets/128390031/c9d7a5a6-2fab-48ea-b218-05cd29f7c2fb)
-
--图片保存至本地并成功传回
-
-![ecff8e6848f4a827d406c95298bb6bb](https://github.com/duskbirds/software/assets/100574014/151f718a-99c6-4fc2-be3b-5c92aa61bc73)
-![image](https://github.com/duskbirds/software/assets/100574014/ee104739-1211-4157-ac8d-aba4bcabdb4f)
-![image](https://github.com/duskbirds/software/assets/100574014/ae2d691c-ade1-4f19-b459-7db0466b5893)
-
+超分样例测试：
+![g](https://github.com/duskbirds/software/assets/92347173/47450f64-2652-4337-b968-4e27c5c70e9d)
+![g](https://github.com/duskbirds/software/assets/92347173/a29395e8-789a-4fbf-9e5e-a56eb9ddb66c)
 
 - 站立会议合照
-  ![68bbb844cd7174160c4d004ca8abc29](https://github.com/duskbirds/software/assets/128390031/02663edf-42b5-414d-a83f-1d89e03847f3)
-  陈嘉鹏摄
+![70210169f3244857a7db477671ca12b](https://github.com/duskbirds/software/assets/92347173/2d194ace-2d2d-4214-a948-496a39794f79)
+
+  刘嘉洋摄
   
 - 会议时间:2023年12月9日下午四点
   地点：图书馆研讨间
