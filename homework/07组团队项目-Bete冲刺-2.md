@@ -63,7 +63,8 @@ face_enhancement的前端链接。
   - 文字描述：完成了接口的对接，解决了一些bug，制定了后端与模型的连接方案。
   - 展示GIthub当日代码/文档嵌入记录:
 
-![image](https://github.com/duskbirds/software/assets/100574014/2f848cad-9915-4c0d-8648-4e5814910bb9)
+![image](https://github.com/duskbirds/software/assets/100574014/c0a84124-d234-4eae-b74f-49cbfb219832)
+
 
 - 接下来的计划：完善代码，特别是后端与模型的连接。
 - 还剩下哪些任务：后端与模型的连接
