@@ -21,7 +21,7 @@
         <h1>欢迎使用我们的图片降噪工具！只需上传您的照片，我们将为您自动处理，
             让您的图片更加清晰、更具细节。立即体验，让您的照片焕发全新光彩！</h1>
         <button onclick="showCustomBox()" class="button0">点击开始使用</button>
-        <div id="customBox">
+        <div id="customBox" src="./image/bg1.gif" alt="全屏背景图片">
             <!-- 关闭按钮 -->
             <button onclick="hideCustomBox()" class="button1">关闭</button>
            
@@ -33,7 +33,7 @@
                 <img id="uploaded-image2" src="./image/加.png" alt="图片">
                 <input type="file" id="card2" onchange="handleFileSelect1(event)" >
             </div>
-            <button class="my-button">降噪处理</button>
+            <button class="my-button1">降噪处理</button>
             <button class="my-button download" onclick="downloadImage()">保存图片</button>
             <div id="button-container">
                 <div class="side-button" onclick="convertToBlackAndWhite()" >黑白</div>
