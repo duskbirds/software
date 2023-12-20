@@ -89,7 +89,7 @@ img{
       }
 .my-button {
         padding: 10px 20px;
-        margin-top: 0px 90px;
+        margin: 0px 80px;
         text-align: left;
         font-size: 16px;
         background-color: #3498db;
@@ -117,6 +117,36 @@ img{
       flex-direction: column;
       align-items: flex-end;
   }
+  .my-button1 {
+    padding: 10px 20px;
+    margin-right: 210px;
+    text-align: left;
+    font-size: 16px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* 鼠标悬停时的样式 */
+.my-button1:hover {
+    background-color: #2980b9;
+}
+
+/* 激活状态时的样式 */
+.my-button1:active {
+    background-color: #216a94;
+}
+#button-container {
+  position: fixed;
+  top: 42%;
+  right: 37px;
+  transform: translateY(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
 
   .side-button {
       margin: 17px 0;
