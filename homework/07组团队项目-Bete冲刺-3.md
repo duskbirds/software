@@ -63,10 +63,10 @@ face_enhancement的前端链接。
 
 5.陈嘉鹏
 - 过去两天完成了那些任务
-  - 文字描述：基本实现了后端运行模型生成的exe文件，并传回图片
+  - 文字描述：基本实现了后端运行模型生成的exe文件，并传回图片。
   - 展示GIthub当日代码/文档嵌入记录:
 
-![image](https://github.com/duskbirds/software/assets/100574014/c0a84124-d234-4eae-b74f-49cbfb219832)
+![image](https://github.com/duskbirds/software/assets/100574014/f72f20c1-8127-4914-b6c7-7ec90f327f51)
 
 
 - 接下来的计划：完善代码，特别是后端与模型的连接。
