@@ -26,9 +26,7 @@ face_enhancement的前端链接。
 - 过去两天完成了那些任务
   - 文字描述：完成了超分模型以及前后端连接，解决了不能对图像直接进行超分的问题
   - 展示GIthub当日代码/文档嵌入记录：
-<img width="928" alt="image" src="https://github.com/duskbirds/software/assets/145568790/a13f8592-5fe7-44ce-ab8e-6bca6ddb633b">
-
-
+<img width="935" alt="image" src="https://github.com/duskbirds/software/assets/145568790/a379fcc5-f27e-45cb-83e9-bdb8a0d59999">
 - 接下来的计划:
   继续学习新的图像出现算法，学习新的功能
 - 还剩下哪些任务
