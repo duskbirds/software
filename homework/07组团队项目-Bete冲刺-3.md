@@ -53,7 +53,7 @@ face_enhancement的前端链接。
 - 过去两天完成了那些任务
   - 文字描述：成功打包成exe文件，并且进一步优化成无终端执行，帮助后端实现模型调用
   - 展示GIthub当日代码/文档嵌入记录：
-  <img width="1244" alt="e403a9411c901125d0142a3d56754ec" src="https://github.com/duskbirds/software/assets/104209974/6128d805-3f72-4123-8d79-757ed22c7c49">
+  <img width="739" alt="1" src="https://github.com/duskbirds/software/assets/104209974/b72521c6-d3da-4f34-a9fd-6f860ab10786">
 - 接下来的计划：无
 - 还剩下哪些任务：对于一些细节的优化
 - 遇到了哪些困难：spec参数的设置问题
