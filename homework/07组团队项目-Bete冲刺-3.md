@@ -28,7 +28,8 @@
 - 过去两天完成了那些任务
   - 文字描述：完成了超分模型以及前后端连接，解决了不能对图像直接进行超分的问题
   - 展示GIthub当日代码/文档嵌入记录：  
-<img width="935" alt="image" src="https://github.com/duskbirds/software/assets/145568790/a379fcc5-f27e-45cb-83e9-bdb8a0d59999">
+<img width="960" alt="image" src="https://github.com/duskbirds/software/assets/145568790/20cf0cd5-2c86-45b7-ab92-19da615161df">
+
 - 接下来的计划:
   继续学习新的图像出现算法，学习新的功能
 - 还剩下哪些任务
