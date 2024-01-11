@@ -11,17 +11,19 @@
 1.刘嘉洋
 - 过去两天完成了那些任务
   - 文字描述
- 在自己的电脑上重现Bringing-Old-Photos-Back-to-Life项目，完成了这个超分模型训练和测试。
+ 在自己的电脑上重现Bringing-Old-Photos-Back-to-Life项目，完成了这个超分模型训练和测试。用 Pyinstaller 
+模块将 Python 程序打包成 exe 文件，将face_enhancement打包成exe文件，方便前端链接。
   - 展示GIthub当日代码/文档嵌入记录：
-![image](https://github.com/duskbirds/software/assets/92347173/6d06f846-28de-4367-8363-eba890e82448)
+![image](https://github.com/duskbirds/software/assets/92347173/d5a3d5a7-bc16-4f37-b121-303cadf5125f)
+
 - 接下来的计划
-打算尝试用 Pyinstaller 模块将 Python 程序打包成 exe 文件，将face_enhancement打包成exe文件，方便前端链接。
+查找并修复bug
 - 还剩下哪些任务
-face_enhancement的前端链接。
+检查程序是否存在bug
 - 遇到了哪些困难
-在进行训练faceenhancement模型的时候出现各种环境配置问题。
+无问题
 - 有哪些收获和疑问
-  学习了很多关于神经网络的知识，同时学习了有关Bringing-Old-Photos-Back-to-Life项目。也对图像修复产生了浓厚的兴趣。
+  学习了很多关于神经网络的知识，同时学习了有关pyinstaller打包文件。也对图像修复产生了浓厚的兴趣。
 2.刘咨汛
 - 过去两天完成了那些任务
   - 文字描述：完成了超分模型以及前后端连接，解决了不能对图像直接进行超分的问题
@@ -78,7 +80,8 @@ face_enhancement的前端链接。
 ![g](https://github.com/duskbirds/software/assets/92347173/a29395e8-789a-4fbf-9e5e-a56eb9ddb66c)
 
 - 站立会议合照
-![70210169f3244857a7db477671ca12b](https://github.com/duskbirds/software/assets/92347173/2d194ace-2d2d-4214-a948-496a39794f79)
+![d4911884395df2df7608f788031d416](https://github.com/duskbirds/software/assets/92347173/91fb0c78-942b-4e19-a5ed-16687c77acbd)
+
 
   刘嘉洋摄
   
