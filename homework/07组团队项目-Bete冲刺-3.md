@@ -27,7 +27,7 @@
 2.刘咨汛
 - 过去两天完成了那些任务
   - 文字描述：完成了超分模型以及前后端连接，解决了不能对图像直接进行超分的问题
-  - 展示GIthub当日代码/文档嵌入记录：
+  - 展示GIthub当日代码/文档嵌入记录：  
 <img width="935" alt="image" src="https://github.com/duskbirds/software/assets/145568790/a379fcc5-f27e-45cb-83e9-bdb8a0d59999">
 - 接下来的计划:
   继续学习新的图像出现算法，学习新的功能
